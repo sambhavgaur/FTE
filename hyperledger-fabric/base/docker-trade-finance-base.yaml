@@ -1,6 +1,5 @@
 # Trade Finance Docker Based Configuration
 # This file is extended by docker-trade-finance.yaml
-# For details, refer to the book - Blockchain - A Definitive handbook
 #
 
 version: '2'

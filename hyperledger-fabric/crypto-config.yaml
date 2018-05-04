@@ -1,6 +1,4 @@
 # Trade Finance Network Configuration
-# For details, refer to the book - Enterprise Blockchain - A Definitive handbook
-#
 
 OrdererOrgs:
   - Name: Orderer

@@ -1,10 +1,7 @@
 #!/bin/bash
 
 #
-# Trade Finance Network Script. The script files is build upon first network sample application.
-# 
-# The script provides an end to-end execution of Trade Finance Network as described in the book -
-# Enterprise Blockchain - A Definitive Handbook
+# Trade Finance Network Script.
 #
 
 

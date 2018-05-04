@@ -1,6 +1,4 @@
 # Trade Finance Network Configuration
-# For details, refer to the book - Enterprise Blockchain - A Definitive handbook
-# The configtxgen tool uses the file for generating certificates for the entire Trade Finance Enterprise Blockchain network
 
 Profiles:
 

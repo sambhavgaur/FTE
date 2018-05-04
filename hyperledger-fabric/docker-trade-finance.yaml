@@ -1,6 +1,4 @@
 # Trade Finance Network Docker Configuration
-# The file extends docker-trade-finance-base.yaml. This file setups network for Trade Finance End to End application
-# For details, refer to the book - Enterprise Blockchain - A Definitive handbook
 
 version: '2'
 
